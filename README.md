@@ -1,19 +1,36 @@
-# ✅ To-Do List Web App (HTML, CSS & JavaScript)
+# 📝 TO-DO List Project
 
-This project is a **To-Do List Web Application** built using **HTML, CSS, and JavaScript**.  
-It allows users to create, manage, and delete daily tasks directly in the browser.  
-It’s a perfect beginner project to learn about DOM manipulation and local storage in JavaScript.
+A simple task management application designed to help users
+organize and manage their daily tasks.
 
-## 🚀 Features
+## ✨ Features
 
-✅ Add new tasks  
-✅ Mark tasks as completed  
-✅ Delete tasks individually  
-✅ Store tasks using browser localStorage  
-✅ Clean and responsive UI design  
+- ➕ Add tasks
+- ✏️ Edit tasks
+- 🗑️ Delete tasks
+- ✅ Mark tasks as completed
+- 📋 View task list
+- 🎨 Simple user interface
 
-## 💻 Technologies Used
+## 🛠️ Technologies
 
-- **HTML5** – for structure  
-- **CSS3** – for styling  
-- **JavaScript (ES6)** – for interactivity and task logic  
+- HTML
+- CSS
+- JavaScript
+
+## 🎯 Purpose
+
+This project was developed to practice:
+
+- JavaScript
+- DOM manipulation
+- Event handling
+- User interface design
+- Basic application logic
+
+## 🚀 How to Run
+
+Clone or download the repository and open:
+
+```text
+index.html
